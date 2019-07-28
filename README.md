@@ -1,1 +1,0 @@
-# galacto.github.io
