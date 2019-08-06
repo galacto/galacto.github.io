@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "Init"
+---
+Beginning of writing. 
